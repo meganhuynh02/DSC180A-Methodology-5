@@ -1,5 +1,5 @@
 Megan Huynh mlhuynh@ucsd.edu\
-B04 Colin Jemmott\
+B04 Colin Jemmott
 
 <br>
 
