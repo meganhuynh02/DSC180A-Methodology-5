@@ -1,4 +1,4 @@
-Megan Huynh mlhuynh@ucsd.edu
+Megan Huynh mlhuynh@ucsd.edu \n
 B04 Colin Jemmott
 
 **What is the most interesting topic covered in your domain this quarter?**
